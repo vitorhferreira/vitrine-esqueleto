@@ -8,5 +8,10 @@
 </head>
 <body>
     <h1>Meu primeiro comit</h1>
+    <li>
+        <p>
+            MENU DE COMPRAS
+        </p>
+    </li>
 </body>
 </html>
